@@ -1,0 +1,16 @@
+[
+{
+    "marca": "Chevrolet",
+    "modelo": "Chevy SS",
+    "kilometros": 110542 
+},
+{
+    "marca": "Ford",
+    "modelo": "Mustang",
+    "kilometros": 10542 
+},
+{
+    "marca": "Audi",
+    "modelo": "a4",
+    "kilometros": 5040 
+}]
